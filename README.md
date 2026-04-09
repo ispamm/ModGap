@@ -9,8 +9,9 @@
 ### 💡 Intuition
 The modality gap is irrelevant for instance-wise tasks, such as retrieval, which depend on relative rankings, but strongly impacts multimodal group-wise tasks, such as clustering, which rely on absolute distances among representations of multimodal data in the latent space. Closing the modality gap reduces the within-group scatter, leading to more coherent semantic groupings and better clustering performance, while leaving retrieval rankings mostly unaffected.
 
-![fig1 paper](clus_vs_ret.png)
-
+<center>
+ <img src='clus_vs_ret.png' width='45%' />
+</center>
 
 ### 📉 Loss functions
 
