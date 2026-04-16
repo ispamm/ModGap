@@ -1,7 +1,7 @@
 # [ICLR2026] Closing the Modality Gap Aligns Group-Wise Semantics
 ### [Eleonora Grassucci*](https://sites.google.com/uniroma1.it/eleonoragrassucci/home-page), [Giordano Cicchetti*](https://giordano-cicchetti.github.io/), Emanuele Frasca, Aurelio Uncini, [Danilo Comminiello](https://sites.google.com/uniroma1.it/danilocomminiello/home)
 
-[[Paper on OpenReview](https://openreview.net/forum?id=RHPqr2egJO&noteId=5FxEvNaVoI)]
+[[Paper on OpenReview](https://openreview.net/forum?id=RHPqr2egJO&noteId=5FxEvNaVoI)][[Project Page](https://ispamm.github.io/ModGap_page/)]
 
 \* Eleonora & Giordano contributed equally to this work 🫂
 
